@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a style="color:black;" href="http://bhavyaaarora.me/" >Bhavyaa Arora</a></h1>
-<h3 align="center">I am an aspiring software developer.</h3>
+<h3 align="center">I am a software developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhavyaaarora-08&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyaaarora-08" /> </p>
 
