@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="http://bhavyaaarora.me/" >Bhavyaa Arora</a></h1>
+<h1 align="center">Hi 👋, I'm Bhavyaa Arora</h1>
 <h3 align="center">I am a software developer.</h3>
 
 <br/>
